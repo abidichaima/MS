@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    min-height: 100vh;
+    font-family: 'Play', sans-serif;
+    
+  }
+  
+  div {
+    color: #727272;
+  }
+  
+  p {
+    margin: 16px;
+    font-size: 96px;
+    color: #ccc;
+    text-transform: uppercase;
+    font-weight: 60;
+    transition: all 1s ease-in-out;
+    position: relative;
+    text-align: center;
+
+  }
+  
+  p::before {
+    content: attr(data-item);
+    transition: all 1s ease-in-out;
+    color: #000000;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0;
+    overflow: hidden;
+    text-align: center;
+
+  }
+  
+  p:hover::before {
+    width: 100%;
+    text-align: center;
+
+  }
+  
+  nav {
+    margin: 25px;
+    background: #f9f9f9;
+    padding: 16px;
+
+  }
+  
+  .menuItems {
+    list-style: none;
+    display: flex;
+
+  }
+  
+  li {
+    margin: 5px;
+    text-align: center;
+
+
+  }
+  
+  a {
+    
+    text-decoration: none;
+    color: black;
+    font-size: px;
+    font-weight: 10;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    text-align: center;
+    
+
+  }
+  
+  a::before {
+    content: attr(data-item);
+    transition: 0.5s;
+    color: #544d69;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  a:hover::before {
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+
+  }
+  
+  a:hover {
+    color: white;
+    text-align: center;
+
+  }
+  
+  a:active {
+    background-color: darkgray;
+    text-align: center;
+
+  }

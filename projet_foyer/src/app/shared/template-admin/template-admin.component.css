@@ -1,0 +1,37 @@
+.container-scroller {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  flex-wrap: wrap; /* Permet aux éléments internes de passer à la ligne si l'espace est insuffisant */
+
+}
+
+.content-wrapper {
+  flex: 1;
+  display: flex;
+  grid-template-rows: 1fr auto;
+  flex-direction: column; /* Les éléments internes sont empilés verticalement */
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.sidebar {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.main-panel {
+  padding: 20px;
+  background-color: #151515;
+  flex: 1; /* Le panneau principal occupe tout l'espace disponible restant dans la colonne */
+
+}
+
+.app-footer-admin {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
