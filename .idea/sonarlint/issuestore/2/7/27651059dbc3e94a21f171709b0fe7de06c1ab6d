@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¹©š8ºÔ›þ½1
+_
+java:S1854"BRemove this useless assignment to local variable "testMotdepasse".(·þþù8ÊÔ›þ½1
+G	java:S106"+Replace this use of System.out by a logger.(³çðë8ËÔ›þ½1
+Y
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(·þþù8ÌÔ›þ½1
+P
+java:S1481"3Remove this unused "testMotdepasse" local variable.(·þþù8ÌÔ›þ½1
+H
+java:S1452R"&Remove usage of generic wildcard type.(öù¤Êÿÿÿÿÿ8ú……Ë¾1
+C
+java:S1452X"&Remove usage of generic wildcard type.(ÞùÝ¬8û……Ë¾1

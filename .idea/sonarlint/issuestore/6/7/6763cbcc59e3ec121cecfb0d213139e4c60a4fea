@@ -1,0 +1,22 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©”Ç¿8ç¤º¿1
+
+java:S3305&"]Inject this field value directly into "authenticationProvider", the only method that uses it.(¾ûî”øÿÿÿÿ8¯š‚»¿1
+|
+java:S3305#"ZInject this field value directly into "securityFilterChain", the only method that uses it.(Ô¨›¶şÿÿÿÿ8¯š‚»¿1
+e
+java:S57389"HRemove this call to a deprecated method, it has been marked for removal.(éß„±8ªŞÃ¿1
+e
+java:S5738:"HRemove this call to a deprecated method, it has been marked for removal.(ÏğÅô8«ŞÃ¿1
+e
+java:S5738;"HRemove this call to a deprecated method, it has been marked for removal.(ŠÔÛ‰8«ŞÃ¿1
+e
+java:S5738<"HRemove this call to a deprecated method, it has been marked for removal.(ÙÃ©½8¬ŞÃ¿1
+j
+java:S5738>"HRemove this call to a deprecated method, it has been marked for removal.(ÿ¥ƒòùÿÿÿÿ8¬ŞÃ¿1
+j
+java:S5738>"HRemove this call to a deprecated method, it has been marked for removal.(ÿ¥ƒòùÿÿÿÿ8¬ŞÃ¿1
+j
+java:S5738@"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ8­ŞÃ¿1
+z
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8¶ŞÃ¿1

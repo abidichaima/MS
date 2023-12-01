@@ -1,0 +1,8 @@
+
+J
+java:S5411%"(Use a primitive boolean expression here.(¼–…—ıÿÿÿÿ8í´ŒË½1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Ÿ;8åíöö¼1
+ˆ
+java:S2178#"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(çÔ¾şúÿÿÿÿ8ÓËà÷¼1
+x
+java:S1128"VRemove this unused import 'org.springframework.security.core.context.SecurityContext'.(ØıŞşÿÿÿÿ8ÄµŒË½1

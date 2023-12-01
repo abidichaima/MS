@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¹©š8†®³ï¼1
+P
+java:S1172e".Remove this unused method parameter "theUser".(Õ¿‚‰üÿÿÿÿ8±®³ï¼1
+N
+java:S1144C"1Remove this unused private "isValidEmail" method.(ÚšŠ°8¶®³ï¼1
+U
+java:S1144I"3Remove this unused private "hasEightDigits" method.(ÚØÜ×ÿÿÿÿÿ8¶®³ï¼1
