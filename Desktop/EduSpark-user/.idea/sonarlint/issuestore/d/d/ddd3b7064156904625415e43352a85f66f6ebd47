@@ -1,0 +1,11 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Ÿ;
+q	java:S116"URename this field "JWT_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âş›8ƒ«®ÕÁ1
+Š	java:S116"nRename this field "JWT_EXPIRATION_TIME_IN_MILLISECONDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öø–«8ƒ«®ÕÁ1
+`
+java:S1128"DRemove this unused import 'jakarta.servlet.http.HttpServletRequest'.(õ38é°çÁ1
+]
+java:S1128
+";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8é°çÁ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ê°çÁ1

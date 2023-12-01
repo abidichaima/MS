@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¾’Èúÿÿÿÿ8İòæÓ¼1
+U
+java:S1854 "8Remove this useless assignment to local variable "user".( í¨Æ8âòæÓ¼1
+F
+java:S1481 ")Remove this unused "user" local variable.( í¨Æ8ãòæÓ¼1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8í‰’î¼1
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8í‰’î¼1

@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¹©š8ïé­ÝÁ1
+H
+java:S1452V"&Remove usage of generic wildcard type.(öù¤Êÿÿÿÿÿ8‹ê­ÝÁ1
+C
+java:S1452\"&Remove usage of generic wildcard type.(ÞùÝ¬8Œê­ÝÁ1
+x
+java:S1128"[Remove this unused import 'tn.esprit.ProjetSpring.Security.UserRegistrationDetailsService'.(¥‚‰¸8ª‘¾æÁ1
+_
+java:S1128"=Remove this unused import 'java.util.NoSuchElementException'.(®“ÿéúÿÿÿÿ8ª‘¾æÁ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8ª‘¾æÁ1

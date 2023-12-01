@@ -1,0 +1,23 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü¾’Èúÿÿÿÿ8Ã²ÜÁ1
+_
+java:S2259F"BA "NullPointerException" could be thrown; "user" is nullable here.(Ì¹Ğœ8Õ²ÜÁ1
+n
+java:S3655ß"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¨Õ£ä8Õ²ÜÁ1
+L	java:S106|"+Replace this use of System.out by a logger.(Ÿ—ìıÿÿÿÿ8Ú¯¨æÁ1
+L	java:S106~"+Replace this use of System.out by a logger.(¦ê¬éûÿÿÿÿ8Ú¯¨æÁ1
+[
+java:S1128">Remove this unused import 'jakarta.transaction.Transactional'.(ß–Ê³8Ù©æÁ1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8Ù©æÁ1
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8Ú©æÁ1
+j
+java:S1128	"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8Ú©æÁ1
+y
+java:S1128
+"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë8Ú©æÁ1
+s
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8Ú©æÁ1
+l
+java:S1128"ORemove this unused import 'tn.esprit.ProjetSpring.entities.PasswordResetToken'.(±â‘8Ú©æÁ1
